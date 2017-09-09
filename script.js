@@ -2,7 +2,7 @@ var femaleNames = ['Asia', 'Kasia', 'Ola', 'Jola'];
 var maleNames = ['Piotrek', 'Marek', 'Arek', 'Jarek'];
 var tableMerge = femaleNames.concat(maleNames);
 
-var newName = 'Filip';
+var newName = 'Kacper';
 
 var nameCheck = tableMerge.indexOf(newName);
 
